@@ -1,4 +1,4 @@
-//Eric Jaison 
+//Eric
 //Netflix GUI 
 //Java 
 //Dr. Doderer
