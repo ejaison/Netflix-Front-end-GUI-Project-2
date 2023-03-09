@@ -1,8 +1,6 @@
 //Eric
 //Netflix GUI 
 //Java 
-//Dr. Doderer
-//Oct 18, 2022
 
 package guiIntro;
 
